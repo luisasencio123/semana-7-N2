@@ -1,1 +1,0 @@
-Este archivo demuestra el uso de __init__ y __del__ en Python.
